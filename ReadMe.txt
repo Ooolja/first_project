@@ -4,3 +4,4 @@
 4. BEST FRUIT
 5. lalala
 6. grafic interface
+7. New message
